@@ -1,0 +1,10 @@
+node_modules/
+dist/
+server/data/
+.agents/
+*.xlsx
+*.xls
+*.csv
+*.log
+.env
+.env.*
